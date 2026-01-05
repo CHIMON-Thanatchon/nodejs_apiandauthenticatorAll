@@ -1,0 +1,15 @@
+[submodule "nodejs_rest_api"]
+	path = nodejs_rest_api
+	url = git@github.com:CHIMON-Thanatchon/nodejs_rest_api.git
+[submodule "nodejs_websocket_api"]
+	path = nodejs_websocket_api
+	url = git@github.com:CHIMON-Thanatchon/nodejs_websocket_api.git
+[submodule "nodejs_graphql_api"]
+	path = nodejs_graphql_api
+	url = git@github.com:CHIMON-Thanatchon/nodejs_graphql_api.git
+[submodule "nodejs_webhooks_api"]
+	path = nodejs_webhooks_api
+	url = git@github.com:CHIMON-Thanatchon/nodejs_webhooks_api.git
+[submodule "nodejs_grpc_api"]
+	path = nodejs_grpc_api
+	url = git@github.com:CHIMON-Thanatchon/nodejs_grpc_api.git
